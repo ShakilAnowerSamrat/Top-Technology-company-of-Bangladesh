@@ -15,10 +15,10 @@ List of tech companies to help developers to find jobs.
 |===
 |Company Name |Office location |Technologies | Web presence
 
-|Adplay Technologies (VU Mobile)
-|Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213
-|JavaScript, React, WordPress
-|http://vumobile.biz/[Website]
+|Softsasi
+|2nd Floor, Chairman Market, Ghunti, Mymenshingh, Bangladesh.
+|Android App Development,PC Software Development, Game Design, Website Design, Graphics Design, Artificial Intelligence
+|https://www.softsasi.com/]
 
 |Adventure Dhaka Limited 
 |Head Office: Autograph Tower, 67-68, Kemal Ataturk Avenue, Banani, 17th & 8th Floor, Dhaka, Dhaka 1213
